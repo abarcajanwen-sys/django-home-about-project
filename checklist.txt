@@ -1,0 +1,5 @@
+Python version: 3.12.6
+Virtual environment: venv (activated)
+Django version: 5.1.2
+Runserver: working (http://127.0.0.1:8000/ opens home and about pages)
+Git remote: https://github.com/<abarcajanwen-sys>/<your-repo>.git
